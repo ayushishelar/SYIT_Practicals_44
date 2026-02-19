@@ -9,10 +9,10 @@ Subject Name: Core Java
 ---
 
 ## Practical 1 Title:
-(Write your Practical 1 title here)
+Abstract Class, Hierarchical Inheritance and Private Members
 
 ## Practical 2 Title:
-(Write your Practical 2 title here)
+Arrays & Inheritance: Multiply Two Matrices – Book Stock & Demand
 
 ---
 
